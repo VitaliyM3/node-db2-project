@@ -1,5 +1,18 @@
 // Update with your config settings.
 
+// const knex = require('knex');
+
+// const config = {
+//   client: 'sqlite3',
+//   connection: {
+//     filename: './cars.db3',
+//   },
+//   useNullAsDefault: true,
+// };
+
+// module.exports = knex(config);
+
+
 module.exports = {
 
   development: {
